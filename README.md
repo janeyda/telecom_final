@@ -8,11 +8,13 @@ Predecir qué clientes tienen mayor probabilidad de cancelar sus servicios (chur
 Python, Pandas, NumPy
 Scikit-learn, Imbalanced-learn (SMOTE)
 Matplotlib, Seaborn
+
 🔹 Preprocesamiento
 Se codificaron variables categóricas (One-Hot Encoding).
 Se eliminó información irrelevante (customerID, Churn).
 Se balancearon las clases con SMOTE.
 Se normalizaron variables para modelos sensibles a la escala (KNN, Regresión).
+
 🔹 Modelos Evaluados
 
  Dummy Classifier  
