@@ -19,6 +19,7 @@ Se normalizaron variables para modelos sensibles a la escala (KNN, Regresión).
 
  Dummy Classifier  
  Árbol de Decisión 
+ 
  KNN               
  Random Forest
 
