@@ -36,7 +36,9 @@ Mejorar soporte técnico y servicios adicionales.
 Incentivar contratos a largo plazo con beneficios y bonificaciones.
 Identificar clientes de riesgo mediante Random Forest y contacto proactivo.
 Ajuste de precios y planes flexibles según perfil del cliente.
-📌 Conclusión
+
+**Conclusión**
+
 Random Forest permite identificar clientes propensos a cancelar de manera confiable.
 La combinación de análisis de datos y estrategias de retención puede reducir significativamente la tasa de churn y aumentar la lealtad del cliente.
 
